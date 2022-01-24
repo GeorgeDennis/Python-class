@@ -1,0 +1,21 @@
+
+Data type : Data type defines the operations that can be executed on the data . Moreover it is intended to identify the type of data and store accordingly before proceeding with programming  
+
+Types of data
+
+1) String (str or text) : Combination of any charecters ; letters, words, numbers, symbols
+2) Character ( char) : Used for single letters,both in upper and lower case
+3) Integer (int) :  Used for whole nos
+4) Bolean : Used to declare a statement eithet true or false
+5) Floting point data type :Includes a fraction represented in deccimal format and cannot be an integer
+
+
+Single line comments : Comments which are written without giving a line break or new line are called single line comments 
+
+Multi line comments : Comments which tends to expand to multiple lines are called multi line comments
+
+
+Docstring : A  documentation string is known as docstring , it's a way of documenting functions , modules and clases . It allows the programmer to inspect during the course of run time
+
+
+ 
